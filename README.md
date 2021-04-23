@@ -24,5 +24,8 @@ Preliminary data processing & Visualization
 
 Feature engineering & Model selection
 - sklearn
+- keras
+- xgboost
+- lightgbm
 
 ## File Guideline
